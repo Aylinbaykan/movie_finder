@@ -138,7 +138,7 @@ flutter run
 
 | Ana Sayfa 1 | Ana Sayfa 2 | Arama Sonuçları |
 | ----------- | ----------- | --------------- |
-| 🎬 ![Ana Sayfa 1](assets/screenshots/sc1.png) | 🎬 ![Ana Sayfa 2](assets/screenshots/sc2.png) | 🔍 ![Arama Sonuçları](assets/screenshots/sc3.png) |
+| 🎬 ![Ana Sayfa 1](assets/screenshoots/sc1.png) | 🎬 ![Ana Sayfa 2](assets/screenshoots/sc2.png) | 🔍 ![Arama Sonuçları](assets/screenshoots/sc3.png) |
 
 ---
 
