@@ -97,7 +97,7 @@ Bu proje **Clean Architecture** prensiplerine uygun olarak yapılandırılmışt
 ### 2️⃣ **Projeyi Klonlayın**
 
 ```sh
-git clone https://github.com/kullanici/movie_finder.git
+git clone https://github.com/Aylinbaykan/movie_finder.git
 cd movie_finder
 ```
 
